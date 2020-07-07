@@ -16,7 +16,7 @@ music21
 
 ## Clone
 Clone this repo to your local machine using  
-    `https://github.com/carlovogel/xxx/`
+    `https://github.com/carlovogel/compose_tool`
     
 ## Start:
 
