@@ -10,7 +10,7 @@ The trained models can be saved and restored.
 
 ## Used packages:
 python-pyqt5  
-python-numpy__
+python-numpy  
 python-tensorflow-cuda  
 music21
 
@@ -20,7 +20,7 @@ Clone this repo to your local machine using
     
 ## Start:
 
-Run load_files_window.py to open the tool
+Run compose_tool.py to open the tool
 
 ## Reference:
 
